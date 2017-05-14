@@ -1,4 +1,4 @@
-# Calculation of powers of 2 (1.3.3)
+# Calculation of powers of 2
 
 import sys
 
